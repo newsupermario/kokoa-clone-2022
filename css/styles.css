@@ -1,6 +1,11 @@
+/*reset and font*/
 @import "reset.css";
+/*the order of import is very important*/
 @import "component/status-bar.css";
 @import "component/welcome-header.css";
 @import "screens/login-form.css";
+@import "component/nav-bar.css";
+@import "component/screen-header.css";
+@import "screens/friends.css"
 
  
