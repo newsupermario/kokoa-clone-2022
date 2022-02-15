@@ -1,4 +1,4 @@
-/*reset and font*/
+/*reset*/
 @import "reset.css";
 /*the order of import is very important*/
 @import "component/status-bar.css";
@@ -6,6 +6,5 @@
 @import "screens/login-form.css";
 @import "component/nav-bar.css";
 @import "component/screen-header.css";
-@import "screens/friends.css"
-
- 
+@import "screens/friends.css";
+@import "component/user-component.css";
